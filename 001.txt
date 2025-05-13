@@ -1,5 +1,11 @@
 Lysol is quite a good product company!
 Today is such a long day!
 How about tomorrow?
+<<<<<<< HEAD
 
 !!!!!!!!!!!!!!!!!!!!!
+=======
+>>>>>>> new-venture
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+>>>>>>> 856031c2b674e0d94777e930a607a2713f3233d0
