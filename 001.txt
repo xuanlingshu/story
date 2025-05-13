@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Lysol is quite a good product company!
+=======
+Today is such a long day!
+How about tomorrow?
+>>>>>>> new-venture
